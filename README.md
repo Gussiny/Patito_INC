@@ -1,4 +1,4 @@
-# Patito_INC
+# GrupoHSS
 Equipo conformado: 
 Francisco Sanchez Salomon A01634745 -- FranciscoSnz 
 Angél Marquez A01651408 -- marquez-angel  
